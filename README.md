@@ -33,4 +33,6 @@ like IntelliJ to recognise and use.
 # References
 
 - https://blog.tlinkowski.pl/2019/when-to-use-jsr-305-for-nullability-in-java/
-- https://github.com/spring-projects/spring-framework/blob/main/spring-core/src/main/java/org/springframework/lang/NonNullApi.java
+- [Spring framework NonNullApi](https://github.com/spring-projects/spring-framework/blob/main/spring-core/src/main/java/org/springframework/lang/NonNullApi.java)
+- [Optional - The Mother of All Bikesheds by Stuart Marks](https://youtu.be/Ej0sss6cq14)
+
