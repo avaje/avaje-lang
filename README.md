@@ -26,3 +26,11 @@ and are then honored by most tools - IntelliJ etc.
 
 Note that these annotations are RetentionType CLASS and expected to be used at compile time
 only via static analysis and can not be read or used at runtime.
+
+The `jsr-305` annotations are not required to be a transitive dependency for the tooling
+like IntelliJ to recognise and use.
+
+# References
+
+- https://blog.tlinkowski.pl/2019/when-to-use-jsr-305-for-nullability-in-java/
+- https://github.com/spring-projects/spring-framework/blob/main/spring-core/src/main/java/org/springframework/lang/NonNullApi.java
