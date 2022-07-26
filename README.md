@@ -1,3 +1,7 @@
+[![Build](https://github.com/avaje/avaje-lang/actions/workflows/build.yml/badge.svg)](https://github.com/avaje/avaje-lang/actions/workflows/build.yml)
+[![Maven Central](https://img.shields.io/maven-central/v/io.avaje/avaje-lang.svg?label=Maven%20Central)](https://mvnrepository.com/artifact/io.avaje/avaje-lang)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/avaje/avaje-lang/blob/master/LICENSE)
+
 # avaje-lang
 
 Provides `@NonNullAPI` and `@Nullable` for APIs
